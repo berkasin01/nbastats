@@ -4,7 +4,7 @@ Scrapes the NBA.com stats leaderboard and exports player stats to CSV using Beau
 
 ## What It Does
 
-Pulls the top 5 players from each of the 9 stat categories on the NBA stats page (points, rebounds, assists, etc.) and saves them to a CSV file with category headers.
+Pulls the top 5 players from each of the 9 stat categories on the NBA stats page (points, rebounds, assists, etc.) and saves them to a CSV file with category headers. This could be used for performance analysis
 
 ## How It Works
 
